@@ -1,4 +1,4 @@
 ragdollkit
 ==========
 
-Simple website for Kesa's ragdollkit idea.
+Simple website for Kesa's ragdoll kit idea.
